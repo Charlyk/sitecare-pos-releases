@@ -1,0 +1,3 @@
+# GitHub generates Source code archives via git archive for every release.
+# Exclude all content so those downloads are empty — binaries ship as release assets.
+* export-ignore
